@@ -1,6 +1,5 @@
 # SKALE Metaport Widget
 
-[![Discord](https://img.shields.io/discord/534485763354787851.svg)](https://discord.gg/vvUtWJB)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/skalenetwork/metaport/publish.yml)
 ![npm](https://img.shields.io/npm/dm/@skalenetwork/metaport)
 ![NPM](https://img.shields.io/npm/l/@skalenetwork/metaport)
